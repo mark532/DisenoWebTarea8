@@ -1,0 +1,15 @@
+/* Navbar */
+
+.navbar li a:hover {
+    background-color: #c817c8;
+}
+
+body {
+    /* min-width: (containers) */
+    min-width: 1200px;
+}
+
+.bc {
+    padding-top: 2em;
+    padding-left: 2em;
+}
